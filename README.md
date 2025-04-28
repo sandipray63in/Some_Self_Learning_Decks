@@ -3,3 +3,7 @@
 3) Some resources links might not be working due to various reasons, although they were working at the time of initial drafting.
 4) Most of the slides needs beautification to make them more professional.
 5) There are probably tons of better resources compared to the decks/slides/ppts provided here, especially the paid courses from Udemy or Corusera or Pluralsight or some similar sites.But this is kind of accumulation of some best of the best resources as per my limited knowledge that I have tried to put in a single centralised place which is not only helpful for myself but can be helpful for others as well.
+
+
+
+N.B.- Regarding AI/ML/DL etc whatever amateur/novice level knowledge I have is all because of my wife(& IISc B'Lore). She did a course in CDS(Computational Data Science) from IISc B'lore as a start for her PhD in ML(which she is currently pursuing from an NIT in India) & that sparkled the interest in me(& ofcourse in her) to know more about AI/ML/DL etc.Hats off to the professors of IISc B'lore(e.g. [Deepak Subrahmani](https://www.linkedin.com/in/deepaknsubramani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Sashikumar Ganesan](https://www.linkedin.com/in/sashikumaar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) etc) for making such complex subjects so simple to understand. Its now quite understandable to me & my wife why IISc B'Lore is considered the best Science & Engineering College in not only India but Asia as well 🙏
